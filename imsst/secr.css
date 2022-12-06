@@ -1,0 +1,65 @@
+BODY {
+        FONT-FAMILY: Arial; BACKGROUND-COLOR: #f4f2e9; fix: 10pt
+}
+.variabel {
+        FONT-SIZE: 1em
+}
+MENU {
+        FONT-SIZE: 10pt; MARGIN: 1px 5px; LINE-HEIGHT: 100%; FONT-FAMILY: Arial
+; LIST-STYLE-TYPE: none; TEXT-ALIGN: left
+}
+H1 {
+        FONT-WEIGHT: bold; FONT-SIZE: 18pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+H2 {
+        FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+H3 {
+        FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #000000; FONT-STYLE: italic;
+ FONT-FAMILY: Arial
+}
+TD {
+        FONT-FAMILY: Arial; fix: 10pt
+}
+.variabel {
+        FONT-SIZE: 1em
+}
+PRE {
+        FONT-SIZE: 8pt; FONT-FAMILY: Courier New
+}
+A:link {
+        BACKGROUND-ATTACHMENT: scroll; COLOR: #3300cc; BACKGROUND-REPEAT: repea
+t; FONT-FAMILY: Arial; TEXT-DECORATION: none; fix: 10pt
+}
+.variabel {
+        FONT-SIZE: 1em
+}
+A:visited {
+        BACKGROUND-ATTACHMENT: scroll; COLOR: #3300cc; BACKGROUND-REPEAT: repea
+t; FONT-FAMILY: Arial; TEXT-DECORATION: none; fix: 10pt
+}
+.variabel {
+        FONT-SIZE: 1em
+}
+A:active {
+        BACKGROUND-ATTACHMENT: scroll; COLOR: #3300cc; BACKGROUND-REPEAT: repeat; FONT-FAMILY: Arial; TEXT-DECORATION: none;
+ fix: 10pt
+}
+.variabel {
+        FONT-SIZE: 1em
+}
+A:hover {
+        BACKGROUND: white; COLOR: #5a739c
+}
+B {
+        FONT-WEIGHT: bold
+}
+P.variabel {
+        MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+.kleur {
+        BACKGROUND: #ff9966
+}
+.groot {
+        FONT-WEIGHT: bold; FONT-SIZE: larger
+}
